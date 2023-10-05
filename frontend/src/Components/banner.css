@@ -1,0 +1,13 @@
+/* Custom CSS to decrease the size of the Carousel */
+.carousel {
+    max-width: 550px; /* Set the maximum width */
+    margin-top: 70px;
+
+  }
+  
+  .carousel-item img {
+    max-height: 255px; /* Set the maximum height of the images */
+    width: auto; /* Maintain the aspect ratio */
+    /* margin: 0 auto; Center the images horizontally */
+  }
+  

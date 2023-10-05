@@ -1,0 +1,12 @@
+.nav1{
+    display: flex;
+
+}
+/* styles.css */
+/* Style for the dropdown menu items on hover */
+.navbar-nav .nav-item.dropdown:hover .nav-link {
+    /* background-color: #007BFF; Change to your desired hover background color */
+    /* color: #fff; Change to your desired hover text color */
+    border-bottom: 2px solid rgb(255, 0, 0);
+  }
+  
